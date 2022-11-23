@@ -1,1 +1,1 @@
-﻿# React app from flask and django microservices
+﻿# React app for flask and django microservices
